@@ -1,7 +1,7 @@
 # Setting up
 ```
 $ cd $GOPATH
-$ mkdir -p github.com/octoberstorm && cd $_
+$ mkdir -p src/github.com/octoberstorm && cd $_
 $ git clone https://github.com/yourname/angular2-kanban.git
 $ go get -u github.com/tools/godep
 ```
