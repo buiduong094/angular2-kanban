@@ -1,0 +1,10 @@
+*~
+*.swp
+*.swo
+tags
+.DS_Store
+
+angular2-kanban
+angular2-kanban.exe
+
+server/vendor/
